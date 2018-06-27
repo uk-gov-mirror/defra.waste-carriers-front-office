@@ -39,6 +39,13 @@ gem "sdoc", "~> 0.4.0", group: :doc
 # Use Capistrano for deployment
 # gem "capistrano-rails", group: :development
 
+# GOV.UK styling
+gem "govuk_elements_rails", "~> 3.1"
+gem "govuk_template", "~> 0.23"
+
+# Use High Voltage for static pages
+gem "high_voltage", "~> 3.0"
+
 group :development, :test do
   # Call "byebug" anywhere in the code to stop execution and get a debugger console
   gem "byebug"
