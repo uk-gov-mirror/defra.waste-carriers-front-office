@@ -1,5 +1,5 @@
 {
-  "date_flag": "expired",
+  "date_flag": "in_renewal_window",
   "tier": "UPPER",
   "registrationType": "carrier_broker_dealer",
   "businessType": "limitedCompany",
@@ -7,7 +7,7 @@
   "isMainService": "yes",
   "onlyAMF": "no",
   "companyName": "Limited Company Seed",
-  "company_no": "946107",
+  "company_no": "01649776",
   "firstName": "Test",
   "lastName": "User",
   "phoneNumber": "01234 567890",
@@ -54,7 +54,7 @@
   "regIdentifier": "CBDU207",
   "metaData": {
     "anotherString": "userDetailAddedAtRegistration",
-    "status": "EXPIRED",
+    "status": "ACTIVE",
     "route": "DIGITAL",
     "distance": "n/a"
   },
