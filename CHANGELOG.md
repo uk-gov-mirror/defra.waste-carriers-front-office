@@ -1,5 +1,17 @@
 # Change Log
 
+## [v1.1](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1) (2018-09-26)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.0...v1.1)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `9ed1a21` to `75a23f7` [\#89](https://github.com/DEFRA/waste-carriers-front-office/pull/89) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump passenger from 5.3.4 to 5.3.5 [\#88](https://github.com/DEFRA/waste-carriers-front-office/pull/88) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `ae7499f` to `9ed1a21` [\#87](https://github.com/DEFRA/waste-carriers-front-office/pull/87) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump rubocop from 0.59.1 to 0.59.2 [\#86](https://github.com/DEFRA/waste-carriers-front-office/pull/86) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Stop users accessing pages with back button after signout [\#85](https://github.com/DEFRA/waste-carriers-front-office/pull/85) ([irisfaraway](https://github.com/irisfaraway))
+- Invalidate user session cookies after logout [\#83](https://github.com/DEFRA/waste-carriers-front-office/pull/83) ([irisfaraway](https://github.com/irisfaraway))
+
 ## [v1.0](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.0) (2018-09-18)
 **Implemented enhancements:**
 
