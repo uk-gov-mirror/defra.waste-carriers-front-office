@@ -1,7 +1,23 @@
 # Change Log
 
+## [v1.1.1](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.1) (2018-10-05)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1...v1.1.1)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `75a23f7` to `0f1f11b` [\#93](https://github.com/DEFRA/waste-carriers-front-office/pull/93) ([dependabot[bot]](https://github.com/apps/dependabot))
+- \[Security\] Bump nokogiri from 1.8.4 to 1.8.5 [\#91](https://github.com/DEFRA/waste-carriers-front-office/pull/91) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1) (2018-09-26)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.0...v1.1)
+
+**Implemented enhancements:**
+
+- Invalidate user session cookies after logout [\#83](https://github.com/DEFRA/waste-carriers-front-office/pull/83) ([irisfaraway](https://github.com/irisfaraway))
+
+**Fixed bugs:**
+
+- Stop users accessing pages with back button after signout [\#85](https://github.com/DEFRA/waste-carriers-front-office/pull/85) ([irisfaraway](https://github.com/irisfaraway))
 
 **Merged pull requests:**
 
@@ -9,12 +25,13 @@
 - Bump passenger from 5.3.4 to 5.3.5 [\#88](https://github.com/DEFRA/waste-carriers-front-office/pull/88) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump waste\_carriers\_engine from `ae7499f` to `9ed1a21` [\#87](https://github.com/DEFRA/waste-carriers-front-office/pull/87) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump rubocop from 0.59.1 to 0.59.2 [\#86](https://github.com/DEFRA/waste-carriers-front-office/pull/86) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Stop users accessing pages with back button after signout [\#85](https://github.com/DEFRA/waste-carriers-front-office/pull/85) ([irisfaraway](https://github.com/irisfaraway))
-- Invalidate user session cookies after logout [\#83](https://github.com/DEFRA/waste-carriers-front-office/pull/83) ([irisfaraway](https://github.com/irisfaraway))
 
 ## [v1.0](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.0) (2018-09-18)
 **Implemented enhancements:**
 
+- Configure front-office to send emails via SendGrid [\#73](https://github.com/DEFRA/waste-carriers-front-office/pull/73) ([irisfaraway](https://github.com/irisfaraway))
+- Test converting active upper tier regs to transient objects [\#70](https://github.com/DEFRA/waste-carriers-front-office/pull/70) ([irisfaraway](https://github.com/irisfaraway))
+- Setup GA for project using the GOOGLE\_TAGMANAGER\_ID environment variable [\#69](https://github.com/DEFRA/waste-carriers-front-office/pull/69) ([baphled](https://github.com/baphled))
 - Add specific support for ELB health check calls [\#43](https://github.com/DEFRA/waste-carriers-front-office/pull/43) ([Cruikshanks](https://github.com/Cruikshanks))
 - Add Passenger web app server to project [\#7](https://github.com/DEFRA/waste-carriers-front-office/pull/7) ([Cruikshanks](https://github.com/Cruikshanks))
 
@@ -32,10 +49,7 @@
 - Bump waste\_carriers\_engine from `c67419b` to `d1ee300` [\#80](https://github.com/DEFRA/waste-carriers-front-office/pull/80) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump waste\_carriers\_engine from `8667cef` to `c67419b` [\#78](https://github.com/DEFRA/waste-carriers-front-office/pull/78) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump rubocop from 0.59.0 to 0.59.1 [\#75](https://github.com/DEFRA/waste-carriers-front-office/pull/75) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Configure front-office to send emails via SendGrid [\#73](https://github.com/DEFRA/waste-carriers-front-office/pull/73) ([irisfaraway](https://github.com/irisfaraway))
 - Bump waste\_carriers\_engine from `6d5713b` to `8667cef` [\#71](https://github.com/DEFRA/waste-carriers-front-office/pull/71) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Test converting active upper tier regs to transient objects [\#70](https://github.com/DEFRA/waste-carriers-front-office/pull/70) ([irisfaraway](https://github.com/irisfaraway))
-- Setup GA for project using the GOOGLE\_TAGMANAGER\_ID environment variable [\#69](https://github.com/DEFRA/waste-carriers-front-office/pull/69) ([baphled](https://github.com/baphled))
 - Bump uglifier from 4.1.18 to 4.1.19 [\#68](https://github.com/DEFRA/waste-carriers-front-office/pull/68) ([dependabot[bot]](https://github.com/apps/dependabot))
 - changing registration seed data to cause conviction flag [\#67](https://github.com/DEFRA/waste-carriers-front-office/pull/67) ([timstone](https://github.com/timstone))
 - Bump waste\_carriers\_engine from `f33eaaf` to `6d5713b` [\#66](https://github.com/DEFRA/waste-carriers-front-office/pull/66) ([dependabot[bot]](https://github.com/apps/dependabot))
