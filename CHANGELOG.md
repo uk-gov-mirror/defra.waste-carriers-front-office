@@ -1,5 +1,15 @@
 # Change Log
 
+## [v1.1.3](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.3) (2018-10-18)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.2...v1.1.3)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `231e839` to `fd941fb` [\#100](https://github.com/DEFRA/waste-carriers-front-office/pull/100) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `d6b6696` to `231e839` [\#98](https://github.com/DEFRA/waste-carriers-front-office/pull/98) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Modify CSP to allow removal of PII in GTM [\#97](https://github.com/DEFRA/waste-carriers-front-office/pull/97) ([irisfaraway](https://github.com/irisfaraway))
+- Bump waste\_carriers\_engine from `3565d4e` to `d6b6696` [\#96](https://github.com/DEFRA/waste-carriers-front-office/pull/96) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.2](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.2) (2018-10-10)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.1...v1.1.2)
 
