@@ -1,5 +1,30 @@
 # Change Log
 
+## [v1.1.5](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.5) (2018-11-12)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.4...v1.1.5)
+
+**Implemented enhancements:**
+
+- Add renewal expiry grace window seed option [\#116](https://github.com/DEFRA/waste-carriers-front-office/pull/116) ([timstone](https://github.com/timstone))
+- Transfer a registration to a new account [\#110](https://github.com/DEFRA/waste-carriers-front-office/pull/110) ([irisfaraway](https://github.com/irisfaraway))
+- Add config for renewal grace window [\#109](https://github.com/DEFRA/waste-carriers-front-office/pull/109) ([Cruikshanks](https://github.com/Cruikshanks))
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `b535c6c` to `c9d8c00` [\#120](https://github.com/DEFRA/waste-carriers-front-office/pull/120) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump passenger from 5.3.6 to 5.3.7 [\#119](https://github.com/DEFRA/waste-carriers-front-office/pull/119) ([dependabot[bot]](https://github.com/apps/dependabot))
+- adding CBDU233 seed data [\#118](https://github.com/DEFRA/waste-carriers-front-office/pull/118) ([timstone](https://github.com/timstone))
+- Bump govuk\_template from 0.24.1 to 0.25.0 [\#117](https://github.com/DEFRA/waste-carriers-front-office/pull/117) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `80a323f` to `b535c6c` [\#115](https://github.com/DEFRA/waste-carriers-front-office/pull/115) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `e5d5f42` to `80a323f` [\#114](https://github.com/DEFRA/waste-carriers-front-office/pull/114) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump passenger from 5.3.5 to 5.3.6 [\#113](https://github.com/DEFRA/waste-carriers-front-office/pull/113) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jbuilder from 2.7.0 to 2.8.0 [\#112](https://github.com/DEFRA/waste-carriers-front-office/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
+- \[Security\] Bump rack from 1.6.10 to 1.6.11 [\#111](https://github.com/DEFRA/waste-carriers-front-office/pull/111) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `74171af` to `307ebcf` [\#107](https://github.com/DEFRA/waste-carriers-front-office/pull/107) ([dependabot[bot]](https://github.com/apps/dependabot))
+- \[Security\] Bump loofah from 2.2.2 to 2.2.3 [\#106](https://github.com/DEFRA/waste-carriers-front-office/pull/106) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump rubocop from 0.59.2 to 0.60.0 [\#105](https://github.com/DEFRA/waste-carriers-front-office/pull/105) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `bec6d58` to `74171af` [\#104](https://github.com/DEFRA/waste-carriers-front-office/pull/104) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.4](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.4) (2018-10-24)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.3...v1.1.4)
 
