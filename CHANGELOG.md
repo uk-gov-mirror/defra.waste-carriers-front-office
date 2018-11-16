@@ -1,5 +1,15 @@
 # Change Log
 
+## [v1.1.6](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.6) (2018-11-16)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.5...v1.1.6)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `d83e3b4` to `e283ec6` [\#124](https://github.com/DEFRA/waste-carriers-front-office/pull/124) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `b95d5ce` to `d83e3b4` [\#123](https://github.com/DEFRA/waste-carriers-front-office/pull/123) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `c9d8c00` to `b95d5ce` [\#122](https://github.com/DEFRA/waste-carriers-front-office/pull/122) ([dependabot[bot]](https://github.com/apps/dependabot))
+- adding seed data to test account transfer functionality [\#121](https://github.com/DEFRA/waste-carriers-front-office/pull/121) ([timstone](https://github.com/timstone))
+
 ## [v1.1.5](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.5) (2018-11-12)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.4...v1.1.5)
 
