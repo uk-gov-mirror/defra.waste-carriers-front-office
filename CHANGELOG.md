@@ -1,5 +1,14 @@
 # Change Log
 
+## [v1.1.7](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.7) (2018-11-21)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.6...v1.1.7)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `3542e08` to `ecdea2e` [\#127](https://github.com/DEFRA/waste-carriers-front-office/pull/127) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump uglifier from 4.1.19 to 4.1.20 [\#126](https://github.com/DEFRA/waste-carriers-front-office/pull/126) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `e283ec6` to `3542e08` [\#125](https://github.com/DEFRA/waste-carriers-front-office/pull/125) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.6](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.6) (2018-11-16)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.5...v1.1.6)
 
