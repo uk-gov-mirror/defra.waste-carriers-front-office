@@ -1,10 +1,35 @@
 # Change Log
 
-## [v1.1.7](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.7) (2018-11-21)
+## [v1.1.7](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.7) (2018-12-11)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.6...v1.1.7)
+
+**Fixed bugs:**
+
+- Fix err msg WCR Engine::VERSION already defined [\#131](https://github.com/DEFRA/waste-carriers-front-office/pull/131) ([Cruikshanks](https://github.com/Cruikshanks))
+- Fix web console error in development log [\#130](https://github.com/DEFRA/waste-carriers-front-office/pull/130) ([Cruikshanks](https://github.com/Cruikshanks))
+
+**Closed issues:**
+
+- Dependabot can't resolve your Ruby dependency files [\#139](https://github.com/DEFRA/waste-carriers-front-office/issues/139)
+- Dependabot can't resolve your Ruby dependency files [\#137](https://github.com/DEFRA/waste-carriers-front-office/issues/137)
 
 **Merged pull requests:**
 
+- Bump waste\_carriers\_engine from `2c31d00` to `6813c1c` [\#146](https://github.com/DEFRA/waste-carriers-front-office/pull/146) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `1a03190` to `2c31d00` [\#145](https://github.com/DEFRA/waste-carriers-front-office/pull/145) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `1bc515c` to `1a03190` [\#144](https://github.com/DEFRA/waste-carriers-front-office/pull/144) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump rubocop from 0.61.0 to 0.61.1 [\#143](https://github.com/DEFRA/waste-carriers-front-office/pull/143) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump rubocop from 0.60.0 to 0.61.0 [\#142](https://github.com/DEFRA/waste-carriers-front-office/pull/142) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `7b53a24` to `1bc515c` [\#141](https://github.com/DEFRA/waste-carriers-front-office/pull/141) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `7e0608b` to `7b53a24` [\#140](https://github.com/DEFRA/waste-carriers-front-office/pull/140) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Upgrade to Rails 4.2.11 [\#138](https://github.com/DEFRA/waste-carriers-front-office/pull/138) ([irisfaraway](https://github.com/irisfaraway))
+- Bump waste\_carriers\_engine from `a99cf42` to `5fc5e29` [\#136](https://github.com/DEFRA/waste-carriers-front-office/pull/136) ([dependabot[bot]](https://github.com/apps/dependabot))
+- changing email account to less generic name [\#135](https://github.com/DEFRA/waste-carriers-front-office/pull/135) ([timstone](https://github.com/timstone))
+- Bump waste\_carriers\_engine from `4725917` to `a99cf42` [\#134](https://github.com/DEFRA/waste-carriers-front-office/pull/134) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Adding user account and test data for email testing [\#133](https://github.com/DEFRA/waste-carriers-front-office/pull/133) ([timstone](https://github.com/timstone))
+- Bump waste\_carriers\_engine from `bc72860` to `4725917` [\#132](https://github.com/DEFRA/waste-carriers-front-office/pull/132) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `a692a19` to `9de9bd7` [\#129](https://github.com/DEFRA/waste-carriers-front-office/pull/129) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `ecdea2e` to `a692a19` [\#128](https://github.com/DEFRA/waste-carriers-front-office/pull/128) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump waste\_carriers\_engine from `3542e08` to `ecdea2e` [\#127](https://github.com/DEFRA/waste-carriers-front-office/pull/127) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump uglifier from 4.1.19 to 4.1.20 [\#126](https://github.com/DEFRA/waste-carriers-front-office/pull/126) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump waste\_carriers\_engine from `e283ec6` to `3542e08` [\#125](https://github.com/DEFRA/waste-carriers-front-office/pull/125) ([dependabot[bot]](https://github.com/apps/dependabot))
