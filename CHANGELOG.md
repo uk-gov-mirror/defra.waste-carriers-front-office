@@ -1,5 +1,36 @@
 # Change Log
 
+## [v1.1.8](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.8) (2019-01-25)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.7...v1.1.8)
+
+**Implemented enhancements:**
+
+- Add unique ID to div around each registration [\#161](https://github.com/DEFRA/waste-carriers-front-office/pull/161) ([irisfaraway](https://github.com/irisfaraway))
+- cleaned up layout, linted scss [\#160](https://github.com/DEFRA/waste-carriers-front-office/pull/160) ([liammcmurray](https://github.com/liammcmurray))
+- Make dashboard links more accessible [\#156](https://github.com/DEFRA/waste-carriers-front-office/pull/156) ([irisfaraway](https://github.com/irisfaraway))
+- Set up registration dashboard [\#148](https://github.com/DEFRA/waste-carriers-front-office/pull/148) ([irisfaraway](https://github.com/irisfaraway))
+
+**Fixed bugs:**
+
+- Fixed line width and refactored related sass partial [\#167](https://github.com/DEFRA/waste-carriers-front-office/pull/167) ([liammcmurray](https://github.com/liammcmurray))
+- Don't list inactive registrations on dashboard [\#165](https://github.com/DEFRA/waste-carriers-front-office/pull/165) ([irisfaraway](https://github.com/irisfaraway))
+
+**Merged pull requests:**
+
+- Bump rspec-rails from 3.8.1 to 3.8.2 [\#169](https://github.com/DEFRA/waste-carriers-front-office/pull/169) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `4ccdb83` to `517539b` [\#168](https://github.com/DEFRA/waste-carriers-front-office/pull/168) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `970b4ca` to `4ccdb83` [\#164](https://github.com/DEFRA/waste-carriers-front-office/pull/164) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump dotenv-rails from 2.5.0 to 2.6.0 [\#163](https://github.com/DEFRA/waste-carriers-front-office/pull/163) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Get defra-ruby-style from Rubygems [\#159](https://github.com/DEFRA/waste-carriers-front-office/pull/159) ([irisfaraway](https://github.com/irisfaraway))
+- Bump waste\_carriers\_engine from `8cccfb7` to `970b4ca` [\#157](https://github.com/DEFRA/waste-carriers-front-office/pull/157) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `56ab415` to `8cccfb7` [\#155](https://github.com/DEFRA/waste-carriers-front-office/pull/155) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Install defra-ruby-style for linting [\#154](https://github.com/DEFRA/waste-carriers-front-office/pull/154) ([irisfaraway](https://github.com/irisfaraway))
+- Bump waste\_carriers\_engine from `6cc5541` to `56ab415` [\#153](https://github.com/DEFRA/waste-carriers-front-office/pull/153) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Lock Travis to bundler 1.x [\#152](https://github.com/DEFRA/waste-carriers-front-office/pull/152) ([irisfaraway](https://github.com/irisfaraway))
+- Bump rubocop from 0.61.1 to 0.62.0 [\#150](https://github.com/DEFRA/waste-carriers-front-office/pull/150) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `131aff3` to `6cc5541` [\#149](https://github.com/DEFRA/waste-carriers-front-office/pull/149) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `6813c1c` to `131aff3` [\#147](https://github.com/DEFRA/waste-carriers-front-office/pull/147) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.7](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.7) (2018-12-11)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.6...v1.1.7)
 
