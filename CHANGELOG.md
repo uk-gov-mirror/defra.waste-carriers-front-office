@@ -1,5 +1,60 @@
 # Change Log
 
+## [v1.1.9](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.9) (2019-04-08)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.8...v1.1.9)
+
+**Implemented enhancements:**
+
+- Update privacy policy date [\#219](https://github.com/DEFRA/waste-carriers-front-office/pull/219) ([irisfaraway](https://github.com/irisfaraway))
+- Update privacy policy [\#211](https://github.com/DEFRA/waste-carriers-front-office/pull/211) ([irisfaraway](https://github.com/irisfaraway))
+
+**Fixed bugs:**
+
+- Change 'don't' to 'do not' [\#214](https://github.com/DEFRA/waste-carriers-front-office/pull/214) ([irisfaraway](https://github.com/irisfaraway))
+- Fix Airbrake for the dev environment [\#207](https://github.com/DEFRA/waste-carriers-front-office/pull/207) ([Cruikshanks](https://github.com/Cruikshanks))
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `7f89bbe` to `db6bec5` [\#218](https://github.com/DEFRA/waste-carriers-front-office/pull/218) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `c0fc86d` to `7f89bbe` [\#217](https://github.com/DEFRA/waste-carriers-front-office/pull/217) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump defra\_ruby\_style from 0.1.0 to 0.1.1 [\#216](https://github.com/DEFRA/waste-carriers-front-office/pull/216) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `feccea3` to `c0fc86d` [\#215](https://github.com/DEFRA/waste-carriers-front-office/pull/215) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `6e7bed0` to `feccea3` [\#213](https://github.com/DEFRA/waste-carriers-front-office/pull/213) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump devise from 4.6.1 to 4.6.2 [\#212](https://github.com/DEFRA/waste-carriers-front-office/pull/212) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `e17e257` to `6e7bed0` [\#210](https://github.com/DEFRA/waste-carriers-front-office/pull/210) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump dotenv-rails from 2.7.1 to 2.7.2 [\#209](https://github.com/DEFRA/waste-carriers-front-office/pull/209) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `fd979fb` to `e17e257` [\#206](https://github.com/DEFRA/waste-carriers-front-office/pull/206) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump byebug from 11.0.0 to 11.0.1 [\#202](https://github.com/DEFRA/waste-carriers-front-office/pull/202) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump defra\_ruby\_style from 0.0.3 to 0.1.0 [\#201](https://github.com/DEFRA/waste-carriers-front-office/pull/201) ([dependabot[bot]](https://github.com/apps/dependabot))
+- \[Security\] Bump rails from 4.2.11 to 4.2.11.1 [\#200](https://github.com/DEFRA/waste-carriers-front-office/pull/200) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `fcfb145` to `fd979fb` [\#199](https://github.com/DEFRA/waste-carriers-front-office/pull/199) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Unlock Rails version [\#198](https://github.com/DEFRA/waste-carriers-front-office/pull/198) ([irisfaraway](https://github.com/irisfaraway))
+- Bump waste\_carriers\_engine from `5e9cafa` to `fcfb145` [\#197](https://github.com/DEFRA/waste-carriers-front-office/pull/197) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `0e475f6` to `5e9cafa` [\#196](https://github.com/DEFRA/waste-carriers-front-office/pull/196) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump govuk\_template from 0.25.0 to 0.26.0 [\#195](https://github.com/DEFRA/waste-carriers-front-office/pull/195) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Remove dummy secret key logic in application.rb [\#194](https://github.com/DEFRA/waste-carriers-front-office/pull/194) ([Cruikshanks](https://github.com/Cruikshanks))
+- Bump waste\_carriers\_engine from `ac97859` to `0e475f6` [\#193](https://github.com/DEFRA/waste-carriers-front-office/pull/193) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump defra\_ruby\_style from 0.0.2 to 0.0.3 [\#192](https://github.com/DEFRA/waste-carriers-front-office/pull/192) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `3778978` to `ac97859` [\#191](https://github.com/DEFRA/waste-carriers-front-office/pull/191) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `461f71d` to `3778978` [\#190](https://github.com/DEFRA/waste-carriers-front-office/pull/190) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump dotenv-rails from 2.7.0 to 2.7.1 [\#188](https://github.com/DEFRA/waste-carriers-front-office/pull/188) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump dotenv-rails from 2.6.0 to 2.7.0 [\#187](https://github.com/DEFRA/waste-carriers-front-office/pull/187) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `1166d2f` to `461f71d` [\#186](https://github.com/DEFRA/waste-carriers-front-office/pull/186) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `a6071c2` to `1166d2f` [\#185](https://github.com/DEFRA/waste-carriers-front-office/pull/185) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump byebug from 10.0.2 to 11.0.0 [\#184](https://github.com/DEFRA/waste-carriers-front-office/pull/184) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `1bc4489` to `a6071c2` [\#183](https://github.com/DEFRA/waste-carriers-front-office/pull/183) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump devise from 4.6.0 to 4.6.1 [\#181](https://github.com/DEFRA/waste-carriers-front-office/pull/181) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `0d9df12` to `1bc4489` [\#180](https://github.com/DEFRA/waste-carriers-front-office/pull/180) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump factory\_bot\_rails from 5.0.0 to 5.0.1 [\#178](https://github.com/DEFRA/waste-carriers-front-office/pull/178) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump devise from 4.5.0 to 4.6.0 [\#177](https://github.com/DEFRA/waste-carriers-front-office/pull/177) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `c840601` to `0d9df12` [\#176](https://github.com/DEFRA/waste-carriers-front-office/pull/176) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Align rspec test setup with WEX [\#175](https://github.com/DEFRA/waste-carriers-front-office/pull/175) ([Cruikshanks](https://github.com/Cruikshanks))
+- Remove passenger from dev group in Gemfile [\#174](https://github.com/DEFRA/waste-carriers-front-office/pull/174) ([Cruikshanks](https://github.com/Cruikshanks))
+- Bump waste\_carriers\_engine from `ee64b70` to `c840601` [\#173](https://github.com/DEFRA/waste-carriers-front-office/pull/173) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump factory\_bot\_rails from 4.11.1 to 5.0.0 [\#172](https://github.com/DEFRA/waste-carriers-front-office/pull/172) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `64f8472` to `ee64b70` [\#171](https://github.com/DEFRA/waste-carriers-front-office/pull/171) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `517539b` to `64f8472` [\#170](https://github.com/DEFRA/waste-carriers-front-office/pull/170) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.8](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.8) (2019-01-25)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.7...v1.1.8)
 
