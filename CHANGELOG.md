@@ -1,5 +1,21 @@
 # Change Log
 
+## [v1.2.0](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.2.0) (2019-08-13)
+[Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.10...v1.2.0)
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `2ade67a` to `e729d87` [\#270](https://github.com/DEFRA/waste-carriers-front-office/pull/270) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `06a3f20` to `2ade67a` [\#269](https://github.com/DEFRA/waste-carriers-front-office/pull/269) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `723d42a` to `06a3f20` [\#267](https://github.com/DEFRA/waste-carriers-front-office/pull/267) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `0d43d16` to `723d42a` [\#266](https://github.com/DEFRA/waste-carriers-front-office/pull/266) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump dotenv-rails from 2.7.4 to 2.7.5 [\#265](https://github.com/DEFRA/waste-carriers-front-office/pull/265) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `b3ff8fc` to `0d43d16` [\#264](https://github.com/DEFRA/waste-carriers-front-office/pull/264) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `61acc6d` to `b3ff8fc` [\#263](https://github.com/DEFRA/waste-carriers-front-office/pull/263) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `b03350d` to `61acc6d` [\#262](https://github.com/DEFRA/waste-carriers-front-office/pull/262) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump simplecov from 0.16.1 to 0.17.0 [\#260](https://github.com/DEFRA/waste-carriers-front-office/pull/260) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `a0c211c` to `b03350d` [\#259](https://github.com/DEFRA/waste-carriers-front-office/pull/259) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
 ## [v1.1.10](https://github.com/DEFRA/waste-carriers-front-office/tree/v1.1.10) (2019-06-25)
 [Full Changelog](https://github.com/DEFRA/waste-carriers-front-office/compare/v1.1.9...v1.1.10)
 
