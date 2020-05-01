@@ -2,14 +2,42 @@
 
 ## [Unreleased](https://github.com/defra/waste-carriers-front-office/tree/HEAD)
 
-[Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.3.3...HEAD)
+[Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.3.4...HEAD)
+
+**Implemented enhancements:**
+
+- Add configs for defra ruby address gem [\#500](https://github.com/DEFRA/waste-carriers-front-office/pull/500) ([cintamani](https://github.com/cintamani))
+
+**Fixed bugs:**
+
+- Fix SonarCloud code coverage reporting [\#493](https://github.com/DEFRA/waste-carriers-front-office/pull/493) ([Cruikshanks](https://github.com/Cruikshanks))
 
 **Merged pull requests:**
 
+- Bump waste\_carriers\_engine from `08f2360` to `6561448` [\#506](https://github.com/DEFRA/waste-carriers-front-office/pull/506) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `dcfd2a0` to `08f2360` [\#505](https://github.com/DEFRA/waste-carriers-front-office/pull/505) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `60f00e0` to `dcfd2a0` [\#504](https://github.com/DEFRA/waste-carriers-front-office/pull/504) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `33df27c` to `60f00e0` [\#503](https://github.com/DEFRA/waste-carriers-front-office/pull/503) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `e3358fa` to `33df27c` [\#502](https://github.com/DEFRA/waste-carriers-front-office/pull/502) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `dc04bd5` to `e3358fa` [\#501](https://github.com/DEFRA/waste-carriers-front-office/pull/501) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `a26d99c` to `dc04bd5` [\#499](https://github.com/DEFRA/waste-carriers-front-office/pull/499) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `75330ec` to `a26d99c` [\#498](https://github.com/DEFRA/waste-carriers-front-office/pull/498) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump factory\_bot\_rails from 5.1.1 to 5.2.0 [\#497](https://github.com/DEFRA/waste-carriers-front-office/pull/497) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Use multiple rubocop formats in Travis build [\#496](https://github.com/DEFRA/waste-carriers-front-office/pull/496) ([Cruikshanks](https://github.com/Cruikshanks))
+- Bump byebug from 11.1.2 to 11.1.3 [\#495](https://github.com/DEFRA/waste-carriers-front-office/pull/495) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump defra\_ruby\_style from 0.1.4 to 0.2.1 [\#494](https://github.com/DEFRA/waste-carriers-front-office/pull/494) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `b6a56e6` to `75330ec` [\#492](https://github.com/DEFRA/waste-carriers-front-office/pull/492) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `336551e` to `b6a56e6` [\#491](https://github.com/DEFRA/waste-carriers-front-office/pull/491) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump byebug from 11.1.1 to 11.1.2 [\#490](https://github.com/DEFRA/waste-carriers-front-office/pull/490) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `46ec95b` to `336551e` [\#489](https://github.com/DEFRA/waste-carriers-front-office/pull/489) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `2799dbf` to `46ec95b` [\#488](https://github.com/DEFRA/waste-carriers-front-office/pull/488) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
+## [v1.3.4](https://github.com/defra/waste-carriers-front-office/tree/v1.3.4) (2020-04-16)
+
+[Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.3.3...v1.3.4)
+
+**Merged pull requests:**
+
 - Bump waste\_carriers\_engine from `d66bdf7` to `2799dbf` [\#487](https://github.com/DEFRA/waste-carriers-front-office/pull/487) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `dbda1b9` to `d66bdf7` [\#486](https://github.com/DEFRA/waste-carriers-front-office/pull/486) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `18ec4fd` to `dbda1b9` [\#485](https://github.com/DEFRA/waste-carriers-front-office/pull/485) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
