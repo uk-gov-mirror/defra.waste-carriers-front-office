@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.6.1](https://github.com/defra/waste-carriers-front-office/tree/v1.6.1) (2020-10-12)
+
+[Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.6.0...v1.6.1)
+
+**Fixed bugs:**
+
+- Update privacy policy date [\#602](https://github.com/DEFRA/waste-carriers-front-office/pull/602) ([irisfaraway](https://github.com/irisfaraway))
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `f019fc8` to `f435a15` [\#603](https://github.com/DEFRA/waste-carriers-front-office/pull/603) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
 ## [v1.6.0](https://github.com/defra/waste-carriers-front-office/tree/v1.6.0) (2020-10-09)
 
 [Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.5.0...v1.6.0)
