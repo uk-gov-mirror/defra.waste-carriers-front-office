@@ -1,5 +1,29 @@
 # Changelog
 
+## [v1.7.0](https://github.com/defra/waste-carriers-front-office/tree/v1.7.0) (2020-12-10)
+
+[Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.6.1...v1.7.0)
+
+**Fixed bugs:**
+
+- Temporarily lock Mongoid version to 7.1 [\#620](https://github.com/DEFRA/waste-carriers-front-office/pull/620) ([irisfaraway](https://github.com/irisfaraway))
+
+**Merged pull requests:**
+
+- Bump waste\_carriers\_engine from `532f941` to `e9e26bd` [\#622](https://github.com/DEFRA/waste-carriers-front-office/pull/622) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump waste\_carriers\_engine from `b939962` to `532f941` [\#621](https://github.com/DEFRA/waste-carriers-front-office/pull/621) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Create Dependabot config file [\#616](https://github.com/DEFRA/waste-carriers-front-office/pull/616) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Switch from Travis CI to GitHub Actions [\#615](https://github.com/DEFRA/waste-carriers-front-office/pull/615) ([irisfaraway](https://github.com/irisfaraway))
+- Bump mongoid from 7.1.5 to 7.2.0 [\#614](https://github.com/DEFRA/waste-carriers-front-office/pull/614) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump aws-healthcheck from 1.0.1 to 2.0.0 [\#613](https://github.com/DEFRA/waste-carriers-front-office/pull/613) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `2a90a09` to `b939962` [\#611](https://github.com/DEFRA/waste-carriers-front-office/pull/611) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump mongoid from 7.1.4 to 7.1.5 [\#610](https://github.com/DEFRA/waste-carriers-front-office/pull/610) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump web-console from 4.0.4 to 4.1.0 [\#609](https://github.com/DEFRA/waste-carriers-front-office/pull/609) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `4541b1e` to `2a90a09` [\#608](https://github.com/DEFRA/waste-carriers-front-office/pull/608) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `17b6a15` to `4541b1e` [\#607](https://github.com/DEFRA/waste-carriers-front-office/pull/607) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump waste\_carriers\_engine from `f435a15` to `17b6a15` [\#605](https://github.com/DEFRA/waste-carriers-front-office/pull/605) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Bump mongoid from 7.1.2 to 7.1.3 [\#604](https://github.com/DEFRA/waste-carriers-front-office/pull/604) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
 ## [v1.6.1](https://github.com/defra/waste-carriers-front-office/tree/v1.6.1) (2020-10-12)
 
 [Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.6.0...v1.6.1)
@@ -103,7 +127,6 @@
 **Fixed bugs:**
 
 - Remove options from bundler [\#523](https://github.com/DEFRA/waste-carriers-front-office/pull/523) ([cintamani](https://github.com/cintamani))
-- Fix SonarCloud code coverage reporting [\#493](https://github.com/DEFRA/waste-carriers-front-office/pull/493) ([Cruikshanks](https://github.com/Cruikshanks))
 
 **Security fixes:**
 
@@ -171,6 +194,10 @@
 ## [v1.3.4](https://github.com/defra/waste-carriers-front-office/tree/v1.3.4) (2020-04-16)
 
 [Full Changelog](https://github.com/defra/waste-carriers-front-office/compare/v1.3.3...v1.3.4)
+
+**Fixed bugs:**
+
+- Fix SonarCloud code coverage reporting [\#493](https://github.com/DEFRA/waste-carriers-front-office/pull/493) ([Cruikshanks](https://github.com/Cruikshanks))
 
 **Merged pull requests:**
 
@@ -645,6 +672,7 @@
 - Bump waste\_carriers\_engine from `b95d5ce` to `d83e3b4` [\#123](https://github.com/DEFRA/waste-carriers-front-office/pull/123) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `c9d8c00` to `b95d5ce` [\#122](https://github.com/DEFRA/waste-carriers-front-office/pull/122) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - adding seed data to test account transfer functionality [\#121](https://github.com/DEFRA/waste-carriers-front-office/pull/121) ([timstone](https://github.com/timstone))
+- adding CBDU233 seed data [\#118](https://github.com/DEFRA/waste-carriers-front-office/pull/118) ([timstone](https://github.com/timstone))
 
 ## [v1.1.5](https://github.com/defra/waste-carriers-front-office/tree/v1.1.5) (2018-11-12)
 
@@ -665,7 +693,6 @@
 
 - Bump waste\_carriers\_engine from `b535c6c` to `c9d8c00` [\#120](https://github.com/DEFRA/waste-carriers-front-office/pull/120) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump passenger from 5.3.6 to 5.3.7 [\#119](https://github.com/DEFRA/waste-carriers-front-office/pull/119) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
-- adding CBDU233 seed data [\#118](https://github.com/DEFRA/waste-carriers-front-office/pull/118) ([timstone](https://github.com/timstone))
 - Bump govuk\_template from 0.24.1 to 0.25.0 [\#117](https://github.com/DEFRA/waste-carriers-front-office/pull/117) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `80a323f` to `b535c6c` [\#115](https://github.com/DEFRA/waste-carriers-front-office/pull/115) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 - Bump waste\_carriers\_engine from `e5d5f42` to `80a323f` [\#114](https://github.com/DEFRA/waste-carriers-front-office/pull/114) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
